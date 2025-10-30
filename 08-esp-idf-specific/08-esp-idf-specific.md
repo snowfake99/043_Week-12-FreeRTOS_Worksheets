@@ -1287,3 +1287,6 @@ This tutorial provides a solid foundation for developing sophisticated FreeRTOS 
 
 ---
 **คู่มือนี้ครอบคลุมทุกแง่มุมของ FreeRTOS บน ESP-IDF พร้อมตัวอย่างที่ละเอียดและแบบฝึกหัดที่ใช้งานได้จริง เหมาะสำหรับการเรียนรู้และพัฒนาโปรเจกต์จริง**
+
+
+sussceess

@@ -1174,3 +1174,7 @@ Continue to [07-memory-management.md](07-memory-management.md) to learn about Fr
 - Handle timeouts and partial conditions gracefully
 - Event groups excel at coordinating multiple tasks
 - Barrier synchronization and state machines are common patterns
+
+
+
+susscess

@@ -1134,4 +1134,6 @@ Continue to [08-esp-idf-specific.md](08-esp-idf-specific.md) to learn about ESP3
 - Memory pools provide better control for frequent allocations
 - Monitoring memory usage is crucial for reliable systems
 - Implement proper error handling for allocation failures
-- Static allocation provides better determinism for critical systems
+- Static allocation provides better determinism for critical systems|
+
+sussceess

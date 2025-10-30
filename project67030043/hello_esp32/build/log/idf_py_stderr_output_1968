@@ -1,0 +1,141 @@
+Command: ninja all
+CMake Warning in C:/Users/OHMZUKi/esp/v5.5.1/esp-idf/components/mbedtls/mbedtls/3rdparty/everest/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/./
+
+  has 216 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    library/Hacl_Curve25519_joined.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/OHMZUKi/esp/v5.5.1/esp-idf/components/mbedtls/mbedtls/library/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/./
+
+  has 210 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    psa_crypto_driver_wrappers_no_static.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/OHMZUKi/esp/v5.5.1/esp-idf/components/mbedtls/mbedtls/library/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/./
+
+  has 207 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    64eec4f50f4b06452f0696ce8b8e54b0/net_sockets.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/OHMZUKi/esp/v5.5.1/esp-idf/components/bootloader_support/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/./
+
+  has 219 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    bootloader_flash/src/bootloader_flash_config_esp32.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/OHMZUKi/esp/v5.5.1/esp-idf/components/esp_system/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/./
+
+  has 203 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    port/arch/xtensa/expression_with_stack_asm.S.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/OHMZUKi/esp/v5.5.1/esp-idf/components/esp_hw_support/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/./
+
+  has 211 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    mspi_timing_tuning/mspi_timing_tuning.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/OHMZUKi/esp/v5.5.1/esp-idf/components/freertos/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/./
+
+  has 199 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    FreeRTOS-Kernel/portable/xtensa/xtensa_overlay_os_hook.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/OHMZUKi/esp/v5.5.1/esp-idf/components/wpa_supplicant/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/./
+
+  has 211 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    esp_supplicant/src/crypto/tls_mbedtls.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/OHMZUKi/esp/v5.5.1/esp-idf/components/esp_driver_touch_sens/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/esp-idf/esp_driver_touch_sens/CMakeFiles/__idf_esp_driver_touch_sens.dir/./
+
+  has 225 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    common/touch_sens_common.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/OHMZUKi/esp/v5.5.1/esp-idf/components/esp_local_ctrl/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/./
+
+  has 211 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    src/esp_local_ctrl_transport_httpd.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+

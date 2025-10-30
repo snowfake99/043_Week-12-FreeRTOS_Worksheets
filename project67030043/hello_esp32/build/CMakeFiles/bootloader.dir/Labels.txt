@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/CMakeFiles/bootloader
+C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/CMakeFiles/bootloader.rule
+C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/CMakeFiles/bootloader-complete.rule
+C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/OHMZUKi/OneDrive/Desktop/Week12_043/043_Week-12-FreeRTOS_Worksheets/01-freertos-overview/practice/lab1-setup-first-project/hello_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
